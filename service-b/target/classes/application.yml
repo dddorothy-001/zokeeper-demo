@@ -1,0 +1,5 @@
+server:
+  port: 9092
+
+zookeeper:
+  connect-string: localhost:2181
